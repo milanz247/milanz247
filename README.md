@@ -91,13 +91,7 @@ I'm a software engineer who started in PHP/Laravel, moved into Go and modern JS/
 ### 📫 Let's Connect
 
 <p>
+  <a href="https://www.linkedin.com/in/milanmadusanka/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:milanmadusankamms@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/milanz247"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
-  <!-- Add LinkedIn / personal site badges here once you share the links -->
 </p>
-
-<!--
-NOTE FOR MILAN: I added Email + GitHub badges using confirmed info.
-Send me your LinkedIn URL and/or personal site URL and I'll add matching badges here —
-a LinkedIn link in particular is one of the highest-value additions for recruiter traffic.
--->
