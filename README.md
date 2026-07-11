@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Milan Madusanka 👋</h1>
 
-<h3 align="center">Software Engineer — Full-Stack · AI/LLM Applications · Cloud & DevOps</h3>
+<h3 align="center">TechOps Engineer @ Epic Lanka — Cloud & DevOps · Go · Full-Stack · AI/LLM Applications</h3>
 
 <p align="center">
-  I design and build production-shaped systems end to end — from Go/Vue frameworks to AI-powered tools and the cloud infrastructure that ships them.
+  I work daily with Linux, Docker, and Kubernetes running fintech infrastructure, and build my own tools on the side — from Go/Vue frameworks to AI-powered utilities.
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 ### 🔭 What I'm working on
 
+- **Day job:** Associate TechOps Engineer at Epic Lanka, running Linux/Docker/Kubernetes infrastructure for fintech systems
 - **[vuelang](https://github.com/milanz247/vuelang)** — an open-source, full-stack MVC web framework pairing a Go backend with a Vue 3 frontend
-- Deepening my Cloud/DevOps practice: containerized deployments, CI/CD pipelines, and infrastructure-as-code
 - Exploring practical AI/LLM engineering beyond tutorials — memory systems, agents, and NLP tooling
 
 ### 🧠 About me
 
-I'm a software engineer who started in PHP/Laravel, moved into Go and modern JS/TS frontends, and now builds across the stack — backend APIs, web and mobile clients, and the infrastructure underneath. I care about shipping things that run in production, not just demos: my recent projects carry CI pipelines, semantic releases, and real documentation.
+I started in PHP/Laravel as a full-stack developer at Taprobane IT, then moved into TechOps/DevOps — now I run Kubernetes and Docker infrastructure for fintech systems by day, and build in Go and modern JS/TS by night. I write about what I learn on Medium, and I care about shipping things that run in production: my recent projects carry CI pipelines, semantic releases, and real documentation.
 
 ---
 
@@ -72,6 +72,17 @@ I'm a software engineer who started in PHP/Laravel, moved into Go and modern JS/
 | ⚡ [**Vento**](https://github.com/milanz247/Vento) | Lightweight, high-performance Go web framework built on the standard library |
 | 🧠 [**AI-memory-management-system**](https://github.com/milanz247/AI-memory-management-system) | Encrypted, bilingual (Sinhala/English) AI memory management system with cloud storage |
 | 🤖 [**Personal-memory-reminder-bot**](https://github.com/milanz247/Personal-memory-reminder-bot) | Telegram bot for intelligent, neuroscience-inspired memory management, built in Go |
+
+---
+
+### ✍️ Writing
+
+I write on [Medium](https://medium.com/@milanmadusankamms) about Linux, DevOps, and Go:
+
+- [Why Disabling Root SSH Login is Non-Negotiable](https://medium.com/@milanmadusankamms/why-disabling-root-ssh-login-is-non-negotiable-400dc7e1cf99)
+- [Creating Linux User Accounts That Expire](https://medium.com/p/creating-linux-user-accounts-that-expire-b8a5aba76084)
+- [VMware Virtualization: Turning One Computer Into Many](https://medium.com/p/vmware-virtualization-turning-one-computer-into-many-188ba5d0a30a)
+- [The Story of GoLang: A Programming Language That Changed the Game](https://link.medium.com/R3bgfBFeKQb)
 
 ---
 
