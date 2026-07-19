@@ -87,7 +87,10 @@
       <a href="https://github.com/milanz247/Personal-memory-reminder-bot"><strong>Personal-memory-reminder-bot</strong></a><br/>
       Telegram bot for intelligent, neuroscience-inspired memory management, built in Go.
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/milanz247/2026-expense-tracker-backend"><strong>Expense Tracker</strong></a><br/>
+      Personal finance app split across three repos: <a href="https://github.com/milanz247/2026-expense-tracker-backend">Go API</a>, <a href="https://github.com/milanz247/2026-expense-tracker-frontend">Next.js web</a>, and <a href="https://github.com/milanz247/2026-expense-tracker-mobile">Android (Kotlin)</a>.
+    </td>
   </tr>
 </table>
 
